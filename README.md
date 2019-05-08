@@ -1,4 +1,3 @@
 # NodeJS
-#1.Create user in mysql
-#2.Add data to mysql
+- Create user in mysql and Add data to mysql
 
