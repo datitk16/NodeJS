@@ -26,11 +26,22 @@ const config = {
     masterKey: process.env.MASTERKEY || '',
   },
   development: {
-
+       mysql:{
+         database:'db-demo',
+         username:'root',
+         password:null,
+         host: 'localhost'
+       }
   },
   production: {
     ip: process.env.IP || undefined,
     port: process.env.PORT || 8080,
+    mysql:{
+      database:process.env.DATABASE||'db-demo',
+      username:process.env.DBUSERNAME||'root',
+      password:process.env.DBPASSWORD||null,
+      host: process.env.DBHOSTNAME || 'localhost'
+    }
   }
 }
 
