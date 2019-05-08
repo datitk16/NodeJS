@@ -5,3 +5,6 @@ Fix
 To
 ![6](https://user-images.githubusercontent.com/44493646/57412654-90c4a280-721b-11e9-8439-99bb8f1ae0d8.png)
 =>not have import { create, index, update, show, remove} from './controller'
+
+![7](https://user-images.githubusercontent.com/44493646/57412746-00d32880-721c-11e9-9e7e-4224a85e1cef.png)
+=>Nếu bạn không muốn hợp nhất nhánh từ xa vào nhánh cục bộ của mình và muốn thực hiện một lực đẩy
