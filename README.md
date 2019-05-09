@@ -8,3 +8,5 @@ To
 
 ![7](https://user-images.githubusercontent.com/44493646/57412746-00d32880-721c-11e9-9e7e-4224a85e1cef.png)
 =>Nếu bạn không muốn hợp nhất nhánh từ xa vào nhánh cục bộ của mình và muốn thực hiện một lực đẩy
+![8](https://user-images.githubusercontent.com/44493646/57427576-b0c18980-724e-11e9-9d76-06f0ba397618.png)
+=>check database in mysql open?
